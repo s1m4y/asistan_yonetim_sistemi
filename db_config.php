@@ -1,5 +1,5 @@
 <?php
-$serverName = "LAPTOP-UFQU32FD\\SQLEXPRESS"; // Çift ters eğik çizgi olarak kaçırılmış backslash
+$serverName = "your_server_name"; // Çift ters eğik çizgi olarak kaçırılmış backslash
 $connectionOptions = array(
     "Database" => "proje", // Veritabanı adı
     "CharacterSet" => "UTF-8" // Karakter kodlamasını belirtin
